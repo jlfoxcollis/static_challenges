@@ -1,0 +1,96 @@
+.header {
+  vertical-align: middle;
+  color: white;
+  background-color: #C10A0A;
+  padding: 10px;
+  margin: 0;
+  font-family: "Verdana";
+}
+
+body {
+  font-size: 100%:
+}
+
+#login {
+  vertical-align: middle;
+  color: white;
+  font-size: .5em;
+  float: right;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+  background-color: #3D3C3C;
+}
+
+#article {
+  font-family: Verdana;
+  margin: 0px 25px;
+  max-width: 90%;
+  white-space: softwrap;
+  box-sizing: border-box;
+  font-spacing: -1;
+  font-size: .6em;
+}
+
+li {
+  float: right;
+  font-size: .8em;
+  word-spacing: 5px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  text-description: none;
+}
+
+li a:hover {
+  background-color: red;
+}
+
+#rightbox header {
+  font-family: Verdana;
+  font-weight: bold;
+  padding: 5px;
+}
+
+#rightbox img {
+  width: 200px;
+  height: 150px;
+}
+
+
+#leftbox {
+  float:left;
+  width: 75%;
+  height: 700px;
+  background-color: white;
+}
+
+#rightbox {
+  float:right;
+  width: 25%;
+  height: 700px;
+  background-color: white;
+}
+
+#footer {
+  padding: 10px;
+  font-family: Verdana;
+  font-size: .7em;
+  color: white;
+  word-spacing: 5px;
+  line-height: 1.0;
+  background-color: #3D3C3C;
+  max-width: 100%;
+}
+
+#footer p {
+  word-spacing: -1px;
+}
